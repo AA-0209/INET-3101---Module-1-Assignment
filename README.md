@@ -2,6 +2,6 @@
 
 Source Code for Module 1 Assignment
 
-#Program Descripting
+#Program Description
 
-prints "Hello World"
+prints "Anwar Abukar"
